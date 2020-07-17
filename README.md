@@ -1,9 +1,5 @@
 # Matplotlib - The Power of Plots
 
-* Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
-
-* Use the cleaned data for the remaining steps.
-
 * Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
 * Generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows  the number of total mice for each treatment regimen throughout the course of the study.
