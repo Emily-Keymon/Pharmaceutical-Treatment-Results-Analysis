@@ -64,6 +64,7 @@ The goal of this project was to calculate and display various performance metric
 
 ---
 ## Box Plot
+![box_plot](https://user-images.githubusercontent.com/64673015/113495923-72748980-94ba-11eb-9123-50526ed7b548.PNG)
 
 ---
 ## Line Plot
