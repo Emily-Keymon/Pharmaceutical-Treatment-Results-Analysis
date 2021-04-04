@@ -1,4 +1,4 @@
-# Matplotlib - The Power of Plots
+# Pharmaceutical Treatment Results Analysis
 
 * Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
