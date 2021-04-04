@@ -23,7 +23,9 @@ The goal of this project was to calculate and display various performance metric
 * Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
 
 ---
-## Dataset
+## Datasets
+* https://github.com/Emily-Keymon/Pharmaceutical-Treatment-Results-Analysis/blob/master/data/Mouse_metadata.csv
+* https://github.com/Emily-Keymon/Pharmaceutical-Treatment-Results-Analysis/blob/master/data/Study_results.csv
 
 
 ---
