@@ -50,7 +50,6 @@ The goal of this project was to calculate and display various performance metric
 * Overall, Capomulin treatments on mouse b128 reduced the tumor volume. The most dramatic reduction occured between 25 and 35 days on the treatment. Capomulin proved to be the best drug to reduce tumor growth.
 
 ---
-# Results
 ## Statistics
 ![summary_statistics](https://user-images.githubusercontent.com/64673015/113496016-1fe79d00-94bb-11eb-9a2e-d013d98ee2be.PNG)
 
