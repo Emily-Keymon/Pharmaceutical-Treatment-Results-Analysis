@@ -52,7 +52,7 @@ The goal of this project was to calculate and display various performance metric
 ---
 # Results
 ## Statistics
-![summary_statistics](https://user-images.githubusercontent.com/64673015/113495879-21649580-94ba-11eb-9f38-0bd2a8b0a763.PNG)
+![summary_statistics](https://user-images.githubusercontent.com/64673015/113496016-1fe79d00-94bb-11eb-9a2e-d013d98ee2be.PNG)
 
 ---
 ## Bar Chart
