@@ -54,22 +54,23 @@ The goal of this project was to calculate and display various performance metric
 ## Statistics
 ![summary_statistics](https://user-images.githubusercontent.com/64673015/113495879-21649580-94ba-11eb-9f38-0bd2a8b0a763.PNG)
 
----
+--
 ## Bar Chart
 ![bar_chart](https://user-images.githubusercontent.com/64673015/113495890-380aec80-94ba-11eb-85c2-099ca3a2f2a8.PNG)
 
----
+--
 ## Pie Chart
 ![pie_chart](https://user-images.githubusercontent.com/64673015/113495910-5cff5f80-94ba-11eb-85e6-74ec15aef4f6.PNG)
 
----
+--
 ## Box Plot
 ![box_plot](https://user-images.githubusercontent.com/64673015/113495923-72748980-94ba-11eb-9123-50526ed7b548.PNG)
 
----
+--
 ## Line Plot
+![line_plot](https://user-images.githubusercontent.com/64673015/113495944-81f3d280-94ba-11eb-94f9-6e8de717b9eb.PNG)
 
-
+--
 ### Scatter Plot
 
 
