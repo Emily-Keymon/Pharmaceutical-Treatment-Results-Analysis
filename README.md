@@ -76,6 +76,8 @@ The goal of this project was to calculate and display various performance metric
 
 ---
 ### Correlation and Regression
+![correlation_plot](https://user-images.githubusercontent.com/64673015/113495975-cd0de580-94ba-11eb-8a4b-21f529fe173d.PNG)
 
+---
 
 
