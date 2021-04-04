@@ -36,6 +36,10 @@ The goal of this project was to calculate and display various performance metric
 3.  Create a data frame for the survivng mice data.
 4.  Plot the surviving mice data versus time.
 
+### Tumor Change over 45 Day Treatment
+1.  Calculate percent change in average tumor volume data over the full length of the treatment period.
+2.  Plot the percent change data for each treatment.
+
 ---
 ## Results
 
