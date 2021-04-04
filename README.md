@@ -30,6 +30,12 @@ The goal of this project was to calculate and display various performance metric
 4.  Create individual data frames for the average metastatic site and standard error data.
 5.  Plot the average metastatic site data versus time with error bars defined by the standard error data.  
 
+### Survival During Treatment
+1.  Split the combined data frame into groups by treatment and time index.
+2.  Calculate the number of surviving mice for each treatment at each time index.
+3.  Create a data frame for the survivng mice data.
+4.  Plot the surviving mice data versus time.
+
 ---
 ## Results
 
