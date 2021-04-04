@@ -11,7 +11,7 @@ The goal of this project was to calculate and display various performance metric
 ---
 ## Tools Used
 *  Jupyter Notebook
-*  
+*  Python - Matplotlib, Pandas, Scipy
 
 
 ---
