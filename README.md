@@ -44,7 +44,10 @@ The goal of this project was to calculate and display various performance metric
 
 ---
 ## Observations
-
+* Capomulin and Ramicane had the most data points in the study and the greatest reduction in tumor volume. While, Ketapril had the least effect on tumor growth.
+* Infubinol's data had a potential outlier. One mouse showed a decrease in tumor volume while the rest showed an increase.
+* There seems to be a direct correlation between a mouse's weight and the size of the tumor. This is indicative that the mouse's weight has an impact on the drug's effectiveness.
+* Overall, Capomulin treatments on mouse b128 reduced the tumor volume. The most dramatic reduction occured between 25 and 35 days on the treatment. Capomulin proved to be the best drug to reduce tumor growth.
 
 ---
 ## Results
